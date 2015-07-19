@@ -4,7 +4,7 @@
  <title>Andrew Burger</title>
  <link href="andrewburger.github.io/atom.xml" rel="self"/>
  <link href="andrewburger.github.io/"/>
- <updated>2015-07-19T16:44:30-04:00</updated>
+ <updated>2015-07-19T16:47:41-04:00</updated>
  <id>andrewburger.github.io</id>
  <author>
    <name>Mark Otto</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>My first post</title>
+   <title>My First Post</title>
    <link href="andrewburger.github.io/2015/07/19/my-first-post/"/>
    <updated>2015-07-19T00:00:00-04:00</updated>
    <id>andrewburger.github.io/2015/07/19/my-first-post</id>

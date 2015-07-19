@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first post
+title: My First Post
 ---
 
 Welcome to my brand new site at [andrewburger.net](http://andrewburger.net).
