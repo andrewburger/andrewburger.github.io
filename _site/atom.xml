@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Andrew Burger</title>
- <link href="andrewburger.github.io/atom.xml" rel="self"/>
- <link href="andrewburger.github.io/"/>
- <updated>2015-07-19T21:04:08-04:00</updated>
- <id>andrewburger.github.io</id>
+ <link href="andrewburger.net/atom.xml" rel="self"/>
+ <link href="andrewburger.net/"/>
+ <updated>2015-07-19T21:44:20-04:00</updated>
+ <id>andrewburger.net</id>
  <author>
-   <name>Mark Otto</name>
+   <name>Andrew Burger</name>
    <email></email>
  </author>
 
  
  <entry>
    <title>My First Post</title>
-   <link href="andrewburger.github.io/2015/07/19/my-first-post/"/>
+   <link href="andrewburger.net/2015/07/19/my-first-post/"/>
    <updated>2015-07-19T00:00:00-04:00</updated>
-   <id>andrewburger.github.io/2015/07/19/my-first-post</id>
+   <id>andrewburger.net/2015/07/19/my-first-post</id>
    <content type="html">&lt;p&gt;Welcome to my brand new site at &lt;a href=&quot;http://andrewburger.net&quot;&gt;andrewburger.net&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;You can find more about my work and who I am by reading &lt;a href=&quot;http://andrewburger.net/about/&quot;&gt;about me&lt;/a&gt; or checking &lt;a href=&quot;https://github.com/andrewburger&quot;&gt;my code at GitHub&lt;/a&gt;.&lt;/p&gt;

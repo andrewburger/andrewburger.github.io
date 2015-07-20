@@ -6,8 +6,7 @@ title: About
 ![This is a photo of me.](/assets/photo-about_me.jpg)
 
 I am a Systems Engineer at [Crest Technologies](http://crest-tech.com) working with  
-folks from the Apple Education Team. I have always been fascinated by technology
-and especially tools for helping people learn and grow.
+folks from the [Apple Education Team](https://www.apple.com/education/). I have always been fascinated by technology and especially tools for helping people learn and grow.
 
 I got a Master’s degree in IT Management from [Regis
 University](http://regis.edu).  Before that, I was an undergraduate at [Binghamton
