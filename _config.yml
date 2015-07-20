@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Andrew Burger
 tagline:             The personal website
-url:                 andrewburger.github.io
+url:                 andrewburger.net
 paginate:            1
 baseurl:             ""
 
@@ -20,7 +20,7 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              Andrew Burger
   url:               https://twitter.com/andrewaburger
 
 # Custom vars
