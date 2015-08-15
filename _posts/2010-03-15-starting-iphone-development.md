@@ -4,7 +4,7 @@ title: Starting iPhone Development
 permalink: starting-iphone-development
 ---
 
-(Update Note - This was originally posted on a previous domain andrewaburger.com)
+(Originally posted on a previous domain)
 
 I have a confession to make. I love my iPhone. Despite what limitations it may have, it is a truly revolutionary device that has taken the world by storm and made possible a wide assortment of technological innovation. It has also become a one-of-kind platform to develop amazing applications and distribute them directly to any iPhone owner in the world. The motto "There's an app for that" by Apple truly can be conceived and realized with enough ingenuity.
 

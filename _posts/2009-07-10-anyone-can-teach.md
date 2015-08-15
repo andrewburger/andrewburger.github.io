@@ -4,7 +4,7 @@ title: Anyone Can Teach
 permalink: anyone-can-teach
 ---
 
-(Update Note - This was originally posted on a previous domain)
+(Originally posted on a previous domain)
 
 No matter what path you walk in life, you have unique knowledge that only you can share.  You are the only one who has lived in the exact way that you have.  You have accumulated certain experiences, talents, interests, and knowledge and combined them together in such a fashion that no one else has.  That knowledge can truly unlock your life and give purpose.  We all have that innate desire to benefit others with our knowledge and to be needed, whether we admit it to ourselves or not.  You can only teach what you know, but I will tell you how to do it. Think and use **R.E.A.S.O.N.**
 
