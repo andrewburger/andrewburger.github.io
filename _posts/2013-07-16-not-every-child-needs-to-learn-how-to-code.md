@@ -10,10 +10,7 @@ With the popularity of mobile devices, social networking services, the gold rush
 
 But let's just set the record straight... the world needs more than just you.  After all, you are only one small facet of the whole human experience.  Our diversity and ability to thrive in unique circumstances is our strength; the future can be bigger than what you can possibly imagine. Consider the following statement from a dear friend of mine:
 
-> "I’ve seen a lot of people talking lately about how important it is for every child to learn to program, to code. ... But [will] the future belong to the programmers? Nope. The future belongs to those who create. And creating isn’t limited or bounded by the ability to program or code."
-
-Link: Not Every Child Needs to Learn How To Code — First Today, Then Tomorrow
-[http://whowritesforyou.com/2013/07/16/not-every-child-needs-to-learn-how-to-code/]
+> "I’ve seen a lot of people talking lately about how important it is for every child to learn to program, to code. ... But [will] the future belong to the programmers? Nope. The future belongs to those who create. And creating isn’t limited or bounded by the ability to program or code."[^fn-not_every_child]
 
 Programmers who create are actually an astonishingly unique and rare breed - they create, refine, and help others do the same.  Your code can be art form unto itself... but many others outside of that narrow area of expertise can do the same: writers that encourage and inspire the soul, artists whose works stand the test of time, or teachers who sustain and build the next generation of the human race.  The world needs more than STEM (Science Technology Engineering Mathematics) to live and thrive.  We can find equal value in learning history and religion, pondering languages and philosophies, exploring ourselves and nature through art and dance, and giving civic service to our neighbors.   What we really need is anyone who can imagine the future and create a new world for us.
 
@@ -21,3 +18,4 @@ We need more than people just like you to make this a reality.   Let’s see the
 
 
 [^fn-software_literate]: [Why Absolutely Everyone Needs To Be Software Literate](http://pennyherscher.blogspot.com/2012/08/why-absolutely-everyone-needs-to-be.html)
+[^fn-not_every_child]: [Not Every Child Needs to Learn How To Code — First Today, Then Tomorrow](http://whowritesforyou.com/2013/07/16/not-every-child-needs-to-learn-how-to-code/)
