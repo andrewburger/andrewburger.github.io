@@ -14,4 +14,4 @@ As we can see, the base idea is the foundation of every real product, system, ph
 
 Our ability to consider and validate each stage is fundamental in effective results and change.  As you might imagine, this is critical to many fields such as: business, academic research, engineering, arts, self development, and many more.  The scope of this concept is nearly limitless.  Just the power in that shift as we go deeper: It can be universal to our understand like the change to the theory of relativity from a 200-year old theory of mechanics devised by Isaac Newton, or intimately personal like Jean Valjean's transformational experience of redemption from a petty thief to benevolent hero in the literary masterpiece Les Misérables.
 
-So this begs the question:  When was the last time you asked "Why?"
+So this begs the question:  *When was the last time you asked "Why?"*
