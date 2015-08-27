@@ -24,27 +24,33 @@ These principles will encourage the right thinking for a solid contingency plan,
 
 ##### Scenario - The Lost Wallet
 Let's look out how NOT to lose a wallet and what to do if it does go missing. Avoidance is better than making a mistake in the first place, which is why I am very specific about where I place and carry my wallet at all times.
+
 - Simple: I only need to check certain places when I search for it.
 - Automatic: I don't have to spend time thinking about what to do with my wallet.
 - Flexible: Can accommodate many different locations, clothing, and situations.
 
 If it goes missing, what then? Have a physical copy of everything in my wallet stored in a safe place (such as home, safety deposit box, whatever) and a sheet of information to cancel accounts and order a replacement.
+
 - Simple: I can retrieve (or have mailed) a new physical copy sent until a true replacement happens.
 - Automatic: Order two copies when getting cards, license, etc. The only non-automatic part may be putting the second copy into safe storage, depending on how you decide to do that.
 - Flexible: Very few limitations on the type of wallet, how much it can store, the content in it and the copies, and where/how the storage can happen. One could even do a physical copy in wallet and a digital copy for backup for a different set of advantages/disadvantages.
 
 #### Scenario - A Travel Accident
 Let's look out how I can keep in contact and think about accidents/death. This is a really broad and personal topic but let's boil it down in brief.  For keeping in contact, do all communications the same way (i.e. email, phone calls, texts, whatever) after the trip plans are set.
+
 - Simple: My wife (or other important contacts) know exactly where the information is and should know how to retrieve it (if desired) later.
 - Automatic: I just follow a routine and the format is basically the same every time.
 - Flexible: You can change the medium if necessary to accomodate unique circumstances but you could still use the same one all the time to reference another to keep it all in the same place (i.e. a phone call to check an email for more information).
+
 So what about if I go missing, get sick, or get seriously hurt/injured? Include travel plan information, as well as current/possible commitments that need to be addressed during the length of travel before I make the trip.
+
 - Simple: I only need to send two things every time I travel.
 - Automatic: I just follow a routine and the format is basically the same every time.
 - Flexible: People have the necessary (but not hopefully too much) information by the time I leave. Plans (and communications) can change and adapt if plans change as required. There is also a time component that is variable in the communications part just prior to departure.  It can be worked around by having a quick communications template or making documents prepared ahead of time in event of special circumstances.
 
 #### Scenario - Bad or Lost Data.
 Let's look out how I can data safe on my computer (or any electronic device for that matter). Your setup may have different requirements than mine - I will attempt to keep it more generic or lost in the details. Basically, you will need something that can store/retrieve data over time and do it in multiple places for any/all devices. While that may sound hard, having it fit all three criteria may be hard without proper forethought and research.  What I do is an ongoing scheduled backup of my main computer and use a specific set of common consumer services to both sync and archive all data in many different physical locations.
+
 - Simple: I backup all data (just in case) and only a few (but varied) services.
 - Automatic: I will never forget or miss it because the computer will handle it for me. The only non-automatic part is doing a few test restores to verify that backups function the way I hope they will.
 - Flexible: I can swap out devices, services, storage locations, and software as need be. The data can (and should be) easy to move with it.  The platform and devices may limit or change what options are available to you. My specific implementation will be discussed in a separate post.
