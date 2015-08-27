@@ -36,7 +36,7 @@ If it goes missing, what then? Have a physical copy of everything in my wallet s
 - Flexible: Very few limitations on the type of wallet, how much it can store, the content in it and the copies, and where/how the storage can happen. One could even do a physical copy in wallet and a digital copy for backup for a different set of advantages/disadvantages.
 
 #### Scenario - A Travel Accident
-Let's look out how I can keep in contact and think about accidents/death. This is a really broad and personal topic but let's boil it down in brief.  For keeping in contact, do all communications the same way (i.e. email, phone calls, texts, whatever) after the trip plans are set.
+Let's look out how I can keep in contact and think about accidents/death. This is a really broad and personal topic but let's boil it down.  For keeping in contact, do all communications the same way (i.e. email, phone calls, texts, whatever) after the trip plans are set.
 
 - Simple: My wife (or other important contacts) know exactly where the information is and should know how to retrieve it (if desired) later.
 - Automatic: I just follow a routine and the format is basically the same every time.
