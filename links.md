@@ -5,7 +5,7 @@ title: Links
 
 ## Apple Resources
 
-Whenever you work in an exciting field, somebody is always able to come up with new frameworks or discover something unexpected. In the world of Apple, there is always a helpful community of folks who might have an answer your looking for. You just might need a little help to find it.
+In the world of Apple, there is always a helpful community of folks who might have an answer your looking for. You just might need a little help to find it.
 
 
 ### Useful Apple Sites
