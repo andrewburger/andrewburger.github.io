@@ -8,16 +8,19 @@ title: Links
 Whenever you work in an exciting field, somebody is always able to come up with new frameworks or discover something unexpected. In the world of Apple, there is always a helpful community of folks who might have an answer your looking for. You just might need a little help to find it.
 
 
-### Apple Help
+### Useful Apple Sites
 
 Start with these sites first. You'll need to register an Apple ID for some of the developer sections of the site, which you can do for free!
 
 - [Apple Knowledge Base](http://kbase.info.apple.com/)
 - [Apple Security Guides](http://www.apple.com/support/security/guides/)
 - [Apple Training & Papers](http://training.apple.com/osx)
+- [Apple Support Communities](https://discussions.apple.com)
 - [Apple Developer Resources](https://developer.apple.com/resources/)
+- [Apple Developer Forums](https://forums.developer.apple.com/)
 
-### Great Unofficial Sites
+
+### Third Party Apple Sites
 
 Sometimes people come up with amazing stuff on their own or complement Apple's high quality products. Or possibly run into something unexpected or dance to the beat of their own drum. Here are a few recommendations depending on what you are looking for.
 
