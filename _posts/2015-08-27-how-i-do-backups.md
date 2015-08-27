@@ -20,7 +20,7 @@ In my mind, there are three important principles to any solid backup plan:
 - It must be *automatic*.
 - It must be *flexible*.
 
-These principles will encourage the right thinking for a solid contingency plan, in the event of the unexpected, and fight our own natural tendencies to either overthink, overcomplicate, or not be ready in given scenario when it occurs in a way different than we expect. So let's apply this principles at a high level to each scenario for the purpose of exploring the topic.  A final in-depth solution for each case can be the result of a separate discussion.
+These principles will encourage the right thinking for a solid contingency plan, in the event of the unexpected, and fight our own natural tendencies to either overthink, overcomplicate, or not be ready in a given scenario when it occurs in a way different than we expect. So let's apply these principles at a high level to each scenario for the purpose of exploring the topic.  A final in-depth solution for each case can be the result of a separate discussion.
 
 ##### Scenario - The Lost Wallet
 Let's look out how NOT to lose a wallet and what to do if it does go missing. Avoidance is better than making a mistake in the first place, which is why I am very specific about where I place and carry my wallet at all times.
