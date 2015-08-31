@@ -4,13 +4,13 @@ title: Surprising Thing about Open Source
 permalink: surprising-thing-about-open-source
 ---
 
-`' ***************************************
-' ALL YOUR CODE BELONGS TO US
-10 PRINT "Hello. Welcome to Open Source."
-20 PRINT "Downloading...."
-30 GOTO 10
-' END PROGRAM
-' ***************************************`
+`' ***************************************  <br>
+' ALL YOUR CODE BELONGS TO US               <br>
+10 PRINT "Hello. Welcome to Open Source."   <br>
+20 PRINT "Downloading...."                  <br>
+30 GOTO 10                                  <br>
+' END PROGRAM                               <br>
+' ***************************************`  <br>
 
 
 Lately, I have been moving a bunch of stuff around. Reorganizing things at home. Looking at my current career and things in my personal life. Changing things in the online world of the Internet. It's this sort of 'spring cleaning' mentality that's gotten me to look at all my stuff on my computer.  I've finally gotten around to organizing all my code and putting it on Github, the nexus of geeks and programmers online. While lines and lines of blog posts have been written upon the subject, I will put out the confirming words of someone who's made the transition - it's been worth your code.  At the face of it, *git* is just git. Should it make a difference where you host it? If that's your only goal, then you may not notice much.  But just like there's only one real Silicon Valley, there's only one Github when it comes to code online... it's the place to go.  There is a certain critical mass of quality code, programmers, and social community that seeks and informs. It encourages the best to work and collaborate there and is definitely a great place to be.  It's one thing to know it and another to experience it.
