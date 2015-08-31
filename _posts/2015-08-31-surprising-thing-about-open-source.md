@@ -7,9 +7,11 @@ permalink: surprising-thing-about-open-source
 ```
 ' ***************************************
 ' ALL YOUR CODE BELONGS TO US
+
 10 PRINT "Hello. Welcome to Open Source."
 20 PRINT "Downloading...."
 30 GOTO 10
+
 ' END PROGRAM
 ' ***************************************
 ```
