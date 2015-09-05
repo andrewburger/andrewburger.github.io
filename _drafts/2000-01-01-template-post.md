@@ -40,9 +40,9 @@ print(var)
 This is a footnote reference about this sentence.[^fn-example_footnote]
 
 Here is a sample bullet list:
-- item one
-- item two
-- item three
+- Item one
+- Item two
+- Item three
 
 Here is an ordered list:
 1. One
