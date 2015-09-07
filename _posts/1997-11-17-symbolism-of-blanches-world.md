@@ -6,7 +6,7 @@ permalink: symbolism-of-blanches-world
 
 In Tennessee Williams’s play, A Streetcar Named Desire, Blanche Dubois is a character who constantly strays from the truth. She deliberately lies to herself and refuses to acknowledge the truth, even if she sees it. Her illusions were more comforting, but they eventually lead to her destruction.
 
-> I don’t want realism. I want magic! Yes, yes, magic! I try to give that to people. I misrepresent things to them. I don’t tell the truth, I tell what ought to be the truth. And if that’s sinful, then let me be damned for it!.
+> I don’t want realism. I want magic! Yes, yes, magic! I try to give that to people. I misrepresent things to them. I don’t tell the truth, I tell what ought to be the truth. And if that’s sinful, then let me be damned for it!
 
 Blanche lives in an illusionary world to escape her pain and the truth about her past. Williams cleverly uses many symbols to represent Blanche’s illusionary world. Blanche’s pain caused this retreat from the real world. She had been deeply in love with a boy called Allan Gray. Even though they were married, he was always somewhat nervous with her. One day, she discovers the truth about Allan when she sees him alone with another man. On the next day, Allan Gray shoots himself after leaving Blanche in the Moon Lake Casino. This completely destroys Blanche, and she feels guilty. To escape the pain, she constantly tries to purge herself and retreats into an imaginary world. Blanche takes many hot baths to purge herself of evil. Baths are a symbol of physical, emotional and spiritual cleansing.
 
