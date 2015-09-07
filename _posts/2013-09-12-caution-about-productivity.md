@@ -18,6 +18,7 @@ So you may read over that list and rules and say... That's all well and good but
 I will be brutally blunt; there are as many systems and variations as there are people.  You cannot and will not learn it all.  Nor should you... that is the real rabbit hole of non-productivity.  However, I will say that any serious amount of research will yield new ideas and possibilities for you.  Do yourself a favor and do some homework on the 'popular' methods to get an idea of what's out there.  Once you have the requisite foundational knowledge and principles behind why they work in the first place, the most critical part afterward is learning more about yourself.
 
 Seriously, ask yourself questions like the following:
+
 1. How do I work?
 2. How do I learn?
 3. How do I remember things best?
