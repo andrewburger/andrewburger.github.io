@@ -6,9 +6,7 @@ permalink: food-stamps
 
 The Food Stamp Program (FSP) is a government-run program run by the U.S. Department of Agriculture. The Department of Agricultures (USDA) runs the FSP through the Food and Nutrition Servie or FNS. The FNS gives needy families and children access to food in order to reduce hunger in the U.S.[^fn-mission]
 
-The Food Stamp Program, initiated in 1961, issues monthly “food stamps”. These are coupons that can be used at retail food stores, or can give benefits through electronic benefit transfer (EBT). Using a plastic card, EBT can buy groceries directly from a food stamp account. FSP aid given to needy households and children is determined by household size, income, assets, and other factors.[^fn-program]
-
-In 1997, an average of 22.9 million people by FSP. The Federal government pays for the benefits and shares with the States the cost of administrative expenses for the FSP. 25.1 billion is spent for 1998 alone. This would provide average benefits more than $71 per person per month.[^fn-program]
+The Food Stamp Program, initiated in 1961, issues monthly “food stamps”. These are coupons that can be used at retail food stores, or can give benefits through electronic benefit transfer (EBT). Using a plastic card, EBT can buy groceries directly from a food stamp account. FSP aid given to needy households and children is determined by household size, income, assets, and other factors. In 1997, an average of 22.9 million people by FSP. The Federal government pays for the benefits and shares with the States the cost of administrative expenses for the FSP. 25.1 billion is spent for 1998 alone. This would provide average benefits more than $71 per person per month.[^fn-program]
 
 The rules of eligibility rely mostly upon resources, income, deductions, aliens, and work.[^fn-eligibility]
 
