@@ -24,7 +24,7 @@ U.S. citizens and many non-citizens may be eligible for the program. Here are so
 
 Able-bodied adults (between 16 and 60) must register for work, accept suitable employment, and take part in an employment and training program. In addition, able-bodied adults (between 18 and 50) who do not have any dependent children can get food stamps only for 3 months in a 36-month period if they do not work or participate in a workfare or employment and training program other than job search.[^fn-elig_aliens]
 
-There are some general trends in the food stamp program. The number of food stamp cases declined 23 percent from January 1996 through February 1998 and the total disbursements declined by 25 percent throught the nation.[^fn-national_stamps] New York has a similar trend. The number of food stamp cases declined by 23 percent and total disbursements declined by 31 percent from January 1996 through February 1998. (http://info.fmi.org/foodstamps/ny.htm)
+There are some general trends in the food stamp program. The number of food stamp cases declined 23 percent from January 1996 through February 1998 and the total disbursements declined by 25 percent throught the nation.[^fn-national_stamps] New York has a similar trend. The number of food stamp cases declined by 23 percent and total disbursements declined by 31 percent from January 1996 through February 1998.[^fn-ny_stamps]
 
 [^fn-mission]: [FNS Mission](http://www.fns.usda.gov/fns/menu/about/mission/state.htm)
 [^fn-program]: [FNS Program](http://www.fns.usda.gov/fns/menu/about/PROGRAMS/PROGRAMS.htm)
