@@ -4,7 +4,7 @@ title: A Major Move for GitHub
 permalink: a-major-move-for-github
 ---
 
-Compliments to the Github staff on the new pricing structure for private repositories. This is *definitely* an interesting move - as I suspect that cost is one of the major objections in moving your 'hobby' code that you don't necessarily want to be public. It's just one more reason to do everything with your code over at GitHub, if you haven't already.[^fn-github_footnote]
+Compliments to the amazing folks over there on the new pricing structure for private repositories and a seamless transition for those already on the paid plan. This is *definitely* an interesting move - as I suspect that cost is one of the major objections in moving your 'hobby' code that you don't necessarily want to be public. It's just one more reason to do everything with your code over at GitHub, if you haven't already.[^fn-github_footnote]
 
 As developers, we have a wealth of tools (it's almost an embarrassment really) that we could only dream of less than a decade ago. It's definitely time to enroll in a paid plan if you haven't already.
 
