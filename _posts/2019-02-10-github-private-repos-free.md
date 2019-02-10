@@ -12,4 +12,4 @@ Microsoft appears to be a worthy steward of GitHub so far.  GitHub Enterprise co
 
 You can find out more about these changes on the blog [here](https://github.blog/2019-01-07-new-year-new-github).
 
-[^fn-world_wonders]: Not all code can be open source, despite how great benefit it has for everyone.  Certain situations just don't fit that model.
+[^fn-open_source]: Not all code can be open source, despite how great benefit it has for everyone.  Certain situations just don't fit that model.
