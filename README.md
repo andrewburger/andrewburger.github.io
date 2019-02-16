@@ -7,10 +7,10 @@ This website and its author may reference other projects or products that the au
 ## Goals
 
 * Be accurate, non-judgmental, and understandable.
-* Express facts and personal opinion as a contribution toward an informed discussion or debate.
-* Not participate or engage in negative online behavior such as: shaming, bullying, flame wars, or character attacks.
+* Share expertise, experiences, and personal opinion as a contribution toward an informed discussion or debate.
+* Do not start or participate in negative online behavior such as: shaming, bullying, flame wars, defamation, slander, etc.
 * Collaborate with and reinforce other best practices and standards projects.
-* Not comprehensive. Seems like an odd goal, but the author is only a human with good intention and plenty of imperfections. It attempts to filters down to a small list of ideals that matter.
+* Not comprehensive. Seems like an odd goal, but the author is only a human with good intentions and plenty of imperfections. Let's filter down to a small list of ideals that matter.
 
 ## License
 
