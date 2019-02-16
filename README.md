@@ -16,9 +16,9 @@ This website and its author may reference other projects or products that the au
 
 The content of this project itself is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](LICENSE.md).
 
-## Additional License properties and notes
+## Additional License properties
 
-The license properties (rules) are stored as a bulleted list within the licenses YAML front matter. Each rule has a name e.g., `include-copyright`, a human-readable label, e.g., `Copyright inclusion`, and a description `Include the original copyright with the code`. To add a new rule, simply add it to `_data/rules.yml` and reference it in the appropriate license.
+The license properties (rules) are stored as a bulleted list. Each rule has a name e.g., `include-copyright`, a human-readable label, e.g., `Copyright inclusion`, and a description `Include the original copyright with the code`. These notes are for the author's benefit and your convenience. Reference the actual terms in the appropriate license.
 
 ### Rules
 
