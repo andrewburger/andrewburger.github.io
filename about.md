@@ -7,7 +7,7 @@ title: About
 
 I have always been fascinated by technology, especially tools that help people learn and grow. I like to explore with code, stay close to hacker culture, and study human-computer interaction.
 
-I have worked with educational institutions and provided direct consulting services for small businesses for over 10 years.  I also have a lot of experience managing in-house infrastructure, staffing, and custom app development services for enterprise customers.
+I work with educational institutions and provide direct consulting services for small businesses for over 10 years.  I also have a lot of experience managing custom on-premise infrastructure, staffing, and custom app development services for enterprise customers.
 
 I earned a Master of Science in Information Technology Management degree from [Regis University](https://www.regis.edu) and a Bachelor degree in Computer Science from [Binghamton University](https://www.binghamton.edu).  
 
