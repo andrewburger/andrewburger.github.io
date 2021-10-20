@@ -46,4 +46,3 @@ The license properties (rules) are stored as a bulleted list. Each rule has a na
 * `liability` - This license includes a limitation of liability.
 * `patent-use` - This license explicitly states that it does NOT grant any rights in the patents of contributors.
 * `warranty` - The license explicitly states that it does NOT provide any warranty.
-
