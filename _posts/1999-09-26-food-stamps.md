@@ -20,13 +20,13 @@ U.S. citizens and many non-citizens may be eligible for the program. Here are so
 
 There are some general trends in the food stamp program. The number of food stamp cases declined 23 percent from January 1996 through February 1998 and the total disbursements declined by 25 percent throught the nation.[^fn-national_stamps] New York has a similar trend. The number of food stamp cases declined by 23 percent and total disbursements declined by 31 percent from January 1996 through February 1998.[^fn-ny_stamps]
 
-[^fn-mission]: [FNS Mission](http://www.fns.usda.gov/fns/menu/about/mission/state.htm)
-[^fn-program]: [FNS Program](http://www.fns.usda.gov/fns/menu/about/PROGRAMS/PROGRAMS.htm)
-[^fn-eligibility]: [FNS Eligibility](http://www.fns.usda.gov/fsp/MENU/APPS/ELIGIBILITY/ELIG.HTM)
-[^fn-elig_resources]: [FNS Eligibility Resources](http://www.fns.usda.gov/fsp/MENU/APPS/ELIGIBILITY/resources/resources.htm)
-[^fn-elig_income]: [FNS Eligibility Income](http://www.fns.usda.gov/fsp/MENU/APPS/ELIGIBILITY/income/income.htm)
-[^fn-elig_income_chart]: [FNS Eligibility Income Chart](http://www.fns.usda.gov/fsp/charts/incomechart.htm)
-[^fn-elig_deductions]: [FNS Eligibility Deductions](http://www.fns.usda.gov/fsp/MENU/APPS/ELIGIBILITY/deductions/deductions.htm)
-[^fn-elig_aliens]: [FNS Eligibility For Aliens](http://www.fns.usda.gov/fsp/MENU/APPS/ELIGIBILITY/Work_and_Aliens/Work_and_Aliens.HTM)
-[^fn-national_stamps]: [National Food Stamps](http://info.fmi.org/foodstamps/national.htm)
-[^fn-ny_stamps]: [New York Food Stamps](http://info.fmi.org/foodstamps/ny.htm)
+[^fn-mission]: [FNS Mission](https://www.fns.usda.gov/fns/menu/about/mission/state.htm)
+[^fn-program]: [FNS Program](https://www.fns.usda.gov/fns/menu/about/PROGRAMS/PROGRAMS.htm)
+[^fn-eligibility]: [FNS Eligibility](https://www.fns.usda.gov/fsp/MENU/APPS/ELIGIBILITY/ELIG.HTM)
+[^fn-elig_resources]: [FNS Eligibility Resources](https://www.fns.usda.gov/fsp/MENU/APPS/ELIGIBILITY/resources/resources.htm)
+[^fn-elig_income]: [FNS Eligibility Income](https://www.fns.usda.gov/fsp/MENU/APPS/ELIGIBILITY/income/income.htm)
+[^fn-elig_income_chart]: [FNS Eligibility Income Chart](https://www.fns.usda.gov/fsp/charts/incomechart.htm)
+[^fn-elig_deductions]: [FNS Eligibility Deductions](https://www.fns.usda.gov/fsp/MENU/APPS/ELIGIBILITY/deductions/deductions.htm)
+[^fn-elig_aliens]: [FNS Eligibility For Aliens](https://www.fns.usda.gov/fsp/MENU/APPS/ELIGIBILITY/Work_and_Aliens/Work_and_Aliens.HTM)
+[^fn-national_stamps]: [National Food Stamps](https://info.fmi.org/foodstamps/national.htm)
+[^fn-ny_stamps]: [New York Food Stamps](https://info.fmi.org/foodstamps/ny.htm)
