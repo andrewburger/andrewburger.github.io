@@ -4,8 +4,6 @@ title: Website Security Update
 permalink: website-security-update
 ---
 
-This website now communicates securely through [HTTPS](https://en.wikipedia.org/wiki/HTTPS) by default, which will help protect you.[^fn-security]
+This website now communicates securely through [HTTPS](https://en.wikipedia.org/wiki/HTTPS) by default, which will help protect you.[^fn-security] The change is long overdue.
 
-The change has been long overdue.
-
-[^fn-security]: You can learn more [here](https://www.cloudflare.com/learning/ssl/why-use-https/).
+[^fn-security]: Learn more about [why HTTPS is important](https://www.cloudflare.com/learning/ssl/why-use-https/).
