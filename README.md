@@ -1,4 +1,4 @@
-**[andrewburger.net](https://andrewburger.net)** aims to provide **accurate**, **non-judgmental**, and **understandable** information on topics of interest to the author, hosted on [GitHub Pages](http://pages.github.com).  
+**[andrewburger.net](https://andrewburger.net)** aims to provide **accurate**, **non-judgmental**, and **understandable** information on topics of interest to the author, hosted on [GitHub Pages](https://pages.github.com).  
 
 ## Disclaimer
 
