@@ -17,5 +17,5 @@ Programmers who create are actually an astonishingly unique and rare breed - the
 We need more than people just like you to make this a reality.   Let’s see the true value in what we and others really do, work together, and make it happen!
 
 
-[^fn-software_literate]: [Why Absolutely Everyone Needs To Be Software Literate](http://pennyherscher.blogspot.com/2012/08/why-absolutely-everyone-needs-to-be.html)
-[^fn-not_every_child]: [Not Every Child Needs to Learn How To Code — First Today, Then Tomorrow](http://whowritesforyou.com/2013/07/16/not-every-child-needs-to-learn-how-to-code/)
+[^fn-software_literate]: [Why Absolutely Everyone Needs To Be Software Literate](https://pennyherscher.blogspot.com/2012/08/why-absolutely-everyone-needs-to-be.html)
+[^fn-not_every_child]: [Not Every Child Needs to Learn How To Code — First Today, Then Tomorrow](https://whowritesforyou.com/2013/07/16/not-every-child-needs-to-learn-how-to-code/)
