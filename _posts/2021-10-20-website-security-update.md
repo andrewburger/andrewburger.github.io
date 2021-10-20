@@ -4,7 +4,7 @@ title: Website Security Update
 permalink: website-security-update
 ---
 
-This website now communicates securely through [HTTPS](https://en.wikipedia.org/wiki/HTTPS) by default.[^fn-security] HTTPS will prevent others from tampering or observing network traffic. 
+This website now communicates securely through [HTTPS](https://en.wikipedia.org/wiki/HTTPS) by default, which will help protect you.[^fn-security]
 
 The change has been long overdue.
 
