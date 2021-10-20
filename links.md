@@ -21,7 +21,7 @@ Always start with the main Apple websites for an authoritative answer. Although 
 
 
 <!--- comments
-- [Mac OS X Security Configuration Guides](http://www.apple.com/support/security/guides/)
+- [Mac OS X Security Configuration Guides](https://www.apple.com/support/security/guides/)
 - [Mac Security Configuration Guides](https://support.apple.com/en-us/HT201216)
 -->
 
@@ -32,16 +32,16 @@ Many people come up with their own amazing creations and use Apple products in e
 - [Apple Support Community](https://discussions.apple.com)
 - [Apple Developer Forums](https://forums.developer.apple.com)
 - [Apple Mailing Lists](https://lists.apple.com/mailman/listinfo)
-- [Mac Admin Info](http://www.macadmin.info)
+- [Mac Admin Info](https://www.macadmin.info)
 - [JAMF Knowledge Base](https://jamfnation.jamfsoftware.com/articles.html)
 - [MacAdmins Slack](https://macadmins.herokuapp.com)
 
 <!--- comments
-- [Accidental Tech Podcast](http://atp.fm)
-- [Daring Fireball](http://daringfireball.net)
-- [Mac Performance Guides](http://macperformanceguide.com/index_topics.html)
-- [MacStories](http://www.macstories.net)
-- [MacSurfer News](http://www.macsurfer.com/)
-- [MacWorld Reviews](http://www.macworld.com/)
-- [RELAY FM](http://www.relay.fm)
+- [Accidental Tech Podcast](https://atp.fm)
+- [Daring Fireball](https://daringfireball.net)
+- [Mac Performance Guides](https://macperformanceguide.com/index_topics.html)
+- [MacStories](https://www.macstories.net)
+- [MacSurfer News](https://www.macsurfer.com/)
+- [MacWorld Reviews](https://www.macworld.com/)
+- [RELAY FM](https://www.relay.fm)
 -->
