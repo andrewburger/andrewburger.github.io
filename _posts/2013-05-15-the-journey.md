@@ -23,5 +23,5 @@ Now that we asked ourselves some hard questions and pondering our own lives, we 
 
 Let's start with a small step.  It is an exercise that will help ground you in some basic desirable knowledge that will help in everyday life.  Start exploring and learning 50 things that you will find useful to you now.  You may know some of these things, and in fact, you may most or all of these things already.  If you don't, that's okay too.  The exercise of exploration, measuring your own progress, and watching your own reactions/thoughts during them can be just as critical to your own self-awareness as the actual experience or knowledge you gain.  Start by reading the list of things you should know and then set out to learn those skills.[^fn-fifty_things]
 
-[^fn-self_actualization]: [Self Actualization](http://en.wikipedia.org/wiki/Self-actualization)
-[^fn-fifty_things]: [50 Things to Know](http://www.marcandangel.com/2008/06/02/50-things-everyone-should-know-how-to-do)
+[^fn-self_actualization]: [Self Actualization](https://en.wikipedia.org/wiki/Self-actualization)
+[^fn-fifty_things]: [50 Things to Know](https://www.marcandangel.com/2008/06/02/50-things-everyone-should-know-how-to-do)
