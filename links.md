@@ -30,11 +30,11 @@ Always start with the main Apple websites for an authoritative answer. Although 
 Many people come up with their own amazing creations and use Apple products in exciting ways. These sites are good recommendations to find answers and other interesting people just like you.
 
 - [Apple Support Community](https://discussions.apple.com)
-- [Apple Developer Forums](https://forums.developer.apple.com)
+- [Apple Developer Forums](https://developer.apple.com/forums/)
 - [Apple Mailing Lists](https://lists.apple.com/mailman/listinfo)
 - [Mac Admin Info](https://www.macadmin.info)
-- [JAMF Knowledge Base](https://jamfnation.jamfsoftware.com/articles.html)
-- [MacAdmins Slack](https://macadmins.herokuapp.com)
+- [JAMF Technical Articles](https://docs.jamf.com/technical-articles/index.html)
+- [MacAdmins Slack](https://macadmins.slack.com)
 
 <!--- comments
 - [Accidental Tech Podcast](https://atp.fm)
