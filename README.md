@@ -9,8 +9,8 @@ This website and its author may reference other projects or products that the au
 * Be accurate, non-judgmental, and understandable.
 * Share expertise, experiences, and personal opinion as a contribution toward an informed discussion or debate.
 * Do not start or participate in negative online behavior such as: shaming, bullying, flame wars, defamation, slander, etc.
-* Collaborate with and reinforce other best practices and standards projects.
-* Not comprehensive. Seems like an odd goal, but the author is only a human with good intentions and plenty of imperfections. Let's filter down to a small list of ideals that matter.
+* Collaborate to reinforce other best practices and standards projects.
+* Not comprehensive. Perhaps an odd goal, but the author is only a human with good intentions and plenty of imperfections. Focus on a small list of ideals that matter.
 
 ## License
 
