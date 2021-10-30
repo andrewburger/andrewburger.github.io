@@ -5,20 +5,18 @@ title: Links
 
 ### Apple Resources
 
-In the world of Apple, there is always a helpful community of folks who have an answer. You might want a short list to find them.
-
+In the world of Apple, there is a helpful community where you can find answera. Here is a short list to find them.
 
 #### Official Apple Sites
 
-Always start with the main Apple websites for an authoritative answer. Although nearly everything is open to the public, certain portions on the Apple Developer website require a free Apple ID account registration.
+Always start with the main Apple websites for an authoritative answer. Although nearly everything is open to the public, certain portions of the Apple Developer website require a free Apple ID account registration.
 
 - [Newsroom - Apple](https://www.apple.com/newsroom)
-- [Official Apple Support](https://support.apple.com)
 - [Today at Apple (Store)](https://www.apple.com/today)
+- [Official Apple Support](https://support.apple.com)
 - [Support - Apple Developer](https://developer.apple.com/support)
 - [Apple Developer Documentation](https://developer.apple.com/documentation)
-- [Apple Training and Certification](https://training.apple.com)
-
+- [Training (Apple Certification)](https://training.apple.com)
 
 <!--- comments
 - [Mac OS X Security Configuration Guides](https://www.apple.com/support/security/guides/)
@@ -27,13 +25,14 @@ Always start with the main Apple websites for an authoritative answer. Although 
 
 #### Other Online Apple Resources
 
-Many people come up with their own amazing creations and use Apple products in exciting ways. These sites are good recommendations to find answers and other interesting people just like you.
+My recommendations to find answers about Apple products and other interesting people.
 
-- [Apple Support Community](https://discussions.apple.com)
+- [Official Apple Support Community](https://discussions.apple.com)
 - [Apple Developer Forums](https://developer.apple.com/forums/)
-- [Apple Mailing Lists](https://lists.apple.com/mailman/listinfo)
+- [Mailing Lists (Apple)](https://lists.apple.com/mailman/listinfo)
+- [Technical Articles (jamf)](https://docs.jamf.com/technical-articles/index.html)
+- [MacAdmin Support Pages - Scripting OS X](https://scriptingosx.com/macadmin-links/)
 - [Mac Admin Info](https://www.macadmin.info)
-- [JAMF Technical Articles](https://docs.jamf.com/technical-articles/index.html)
 - [MacAdmins Slack](https://macadmins.slack.com)
 
 <!--- comments
