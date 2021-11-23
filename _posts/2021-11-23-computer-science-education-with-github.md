@@ -4,7 +4,7 @@ title: Computer Science Education with GitHub
 permalink: computer-science-education-with-github
 ---
 
-I recently watched a presentation about how [GitHub helps students learn about Computer Science at Harvard University](https://githubuniverse.com/content-library/pushing-the-envelope-in-cs50/) with modern developer tools and workflows. This session (and other interesting content from GitHub) is part of the 2021 [GitHub Universe](https://githubuniverse.com) event.
+I recently watched a presentation about how [GitHub helps students learn about Computer Science at Harvard University](https://githubuniverse.com/content-library/pushing-the-envelope-in-cs50/) with modern developer tools and workflows. This session (and other interesting content from GitHub) is part of the [GitHub Universe](https://githubuniverse.com) event in 2021.
 
 I agree with the presenter about how the overall student experience has evolved with Computer Science within the last decade.[^fn-college] While this session only highlights one possible approach, [GitHub Education](https://education.github.com/benefits) is still an amazing program for individual students and teachers.
 
