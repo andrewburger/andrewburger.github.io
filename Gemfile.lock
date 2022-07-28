@@ -7,7 +7,7 @@ GEM
       json (~> 2.3.0)
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
-      tzinfo (~> 1.1)
+      tzinfo (~> 1.2.10)
     blankslate (2.1.2.4)
     celluloid (0.16.0)
       timers (~> 4.0.0)
