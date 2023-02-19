@@ -12,5 +12,3 @@ I work with educational institutions and provide direct consulting services to s
 I earned a Master of Science in Information Technology Management degree from [Regis University](https://www.regis.edu) and a Bachelor degree in Computer Science from [Binghamton University](https://www.binghamton.edu).  
 
 Have questions or suggestions? Feel free to [check out my code on GitHub](https://github.com/andrewburger).
-
-You can also follow me on twitter [@andrewaburger](https://twitter.com/andrewaburger).
