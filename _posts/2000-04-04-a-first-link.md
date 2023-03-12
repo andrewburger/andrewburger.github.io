@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daily Link
+title: [Daily Link](https://book.micro.blog/uses-for-microblog/)
 permalink: link-20000404
 ---
 
