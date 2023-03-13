@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ~ Uses for a microblog ~
+title: 🔗 Uses for a microblog
 permalink: link-uses-for-a-microblog
 ---
 
