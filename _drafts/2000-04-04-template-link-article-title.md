@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Daily Link
-permalink: link-20000404
+title: 🔗 Article Title
+permalink: link-article-title
 ---
 
 [Manton Reece at micro.blog](https://book.micro.blog/uses-for-microblog/) on how to start writing with microblogging:
