@@ -12,8 +12,8 @@ permalink: link-hello-internet
 >
 > Yet recently these thoughts – these insecurities – have been challenged. I have felt an urge to write... So I'm going to give it a go.
 
-It is fascinating to see renewed interest in blogging these days. I have no doubt that it partly stems from growing mistrust of larger corporations, rising conflicts in world affairs, and general uncertainly that many feel in their lives. All of which can bring nostalgia, soul-searching, and a desire for connection.
+It is fascinating to see renewed interest in blogging these days. I have no doubt that it partly stems from growing mistrust of large corporations, rising conflicts in world affairs, and general uncertainly that many feel in their lives. All of which can bring nostalgia, soul-searching, and a desire for connection. Writing will help you ponder, grow, and empower.
 
 From my perspective, there has never been a better time to start. You can create a free account at [Wordpress](https://wordpress.com) but it can be anywhere. I invite you to take the first step and just begin sharing.
 
-Writing will help you ponder, grow, and empower. Find your voice and see where that goes.
+Find your voice and see where that goes.
