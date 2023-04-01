@@ -14,7 +14,7 @@ permalink: link-why-you-should-hit-delete-more-often
 >
 > Often what separates the great creatives from the mediocre ones is NOT the result of inherent talent, but the fact that a much greater percentage of their output ended up in the trash can.
 
-Taking another example from Apple history, I believe that the most powerful and instructive demonstration of this principle was during the introduction of Worldwide Developers Conference (WWDC) in 2013. Sadly, Apple recently archived the video from the official Youtube channel.[^fn-archive] However, you can still watch the original [in video podcast form](https://podcasts.apple.com/us/podcast/apple-events-video/id275834665?i=1000160871947) or a faithful reproduction like [this one](https://www.youtube.com/watch?v=kt6Wne1szrg) on Youtube.
+Using another example in Apple history, I believe the most powerful and instructive demonstration of this principle was during the introduction of Worldwide Developers Conference (WWDC) in 2013. Sadly, Apple recently archived the video from the official Youtube channel.[^fn-archive] However, you can still watch the original [in video podcast form](https://podcasts.apple.com/us/podcast/apple-events-video/id275834665?i=1000160871947) or a faithful reproduction like [this one](https://www.youtube.com/watch?v=kt6Wne1szrg) on Youtube.
 
 The statement of intention explains the thoughtful process and design philosphy that Apple has always taken, shared with confidence and pride. This aspirational purpose drives [how Apple rolls](https://daringfireball.net/2010/05/this_is_how_apple_rolls).
 
