@@ -3,27 +3,27 @@ layout: page
 title: Links
 ---
 
-### Apple Resources
+## Apple Resources
 
 In the world of Apple, there is a helpful community where you can find answera. Here is a short list to find them.
 
-#### Official Apple Sites
+### Official Apple Sites
 
 Always start with the main Apple websites for an authoritative answer. Although nearly everything is open to the public, certain portions of the Apple Developer website require a free Apple ID account registration.
 
-##### Announcements & Support
+#### Announcements & Support
 - [Newsroom - Apple](https://www.apple.com/newsroom)
 - [Today at Apple (Store)](https://www.apple.com/today)
 - [Official Apple Support](https://support.apple.com)
 - [Support - Apple Developer](https://developer.apple.com/support)
 
-##### Developer
+#### Developer
 - [Swift.org](https://www.swift.org)
 - [What's new for Apple Developers - Apple Developer](https://developer.apple.com/whats-new/)
 - [Apple Developer Documentation](https://developer.apple.com/documentation)
-- [New Technologies | Apple Developer Documentation](https://developer.apple.com/documentation/new-technologies-wwdc22/)
+- [New Technologies - Apple Developer Documentation](https://developer.apple.com/documentation/new-technologies-wwdc22/)
 
-##### Enterprise & Education
+#### Enterprise & Education
 - [Apple Platform Security Guide](https://support.apple.com/guide/security/welcome/web)
 - [What's New - Apple Platform Security](https://support.apple.com/guide/security/secb82d6b274/web)
 - [Apple Platform Deployment Guide](https://support.apple.com/guide/deployment/welcome/web)
@@ -36,7 +36,7 @@ Always start with the main Apple websites for an authoritative answer. Although 
 - [Mac Security Configuration Guides](https://support.apple.com/en-us/HT201216)
 -->
 
-#### Other Online Apple Resources
+### Other Online Apple Resources
 
 My recommendations to find answers about Apple products and other interesting people.
 
