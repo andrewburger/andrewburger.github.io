@@ -3,9 +3,7 @@ layout: page
 title: Links
 ---
 
-## Apple Resources
-
-In the world of Apple, there is a helpful community where you can find answera. Here is a short list to find them.
+At Apple and in its community, you can find answers. Here is a short list of resources to find them.
 
 ### Official Apple Sites
 
@@ -13,15 +11,17 @@ Always start with the main Apple websites for an authoritative answer. Although 
 
 #### Announcements & Support
 - [Newsroom - Apple](https://www.apple.com/newsroom)
+- [Apple Events - Apple](https://www.apple.com/apple-events/)
 - [Today at Apple (Store)](https://www.apple.com/today)
 - [Official Apple Support](https://support.apple.com)
-- [Support - Apple Developer](https://developer.apple.com/support)
+- [Apple Support - Youtube](https://www.youtube.com/applesupport)
 
-#### Developer
+#### Apple Developer
 - [Swift.org](https://www.swift.org)
 - [What's new for Apple Developers - Apple Developer](https://developer.apple.com/whats-new/)
 - [Apple Developer Documentation](https://developer.apple.com/documentation)
 - [New Technologies - Apple Developer Documentation](https://developer.apple.com/documentation/new-technologies-wwdc22/)
+- [Support - Apple Developer](https://developer.apple.com/support)
 
 #### Enterprise & Education
 - [Apple Platform Security Guide](https://support.apple.com/guide/security/welcome/web)
@@ -45,6 +45,7 @@ My recommendations to find answers about Apple products and other interesting pe
 - [Mailing Lists (Apple)](https://lists.apple.com/mailman/listinfo)
 - [Technical Articles (jamf)](https://docs.jamf.com/technical-articles/index.html)
 - [MacAdmin Support Pages - Scripting OS X](https://scriptingosx.com/macadmin-links/)
+<!-- [Updated Support Pages](https://scriptingosx.com/2023/03/weekly-news-summary-for-admins-2023-03-31/) -->
 - [Mac Admin Info](https://www.macadmin.info)
 - [MacAdmins Slack](https://macadmins.slack.com)
 
