@@ -11,11 +11,24 @@ In the world of Apple, there is a helpful community where you can find answera. 
 
 Always start with the main Apple websites for an authoritative answer. Although nearly everything is open to the public, certain portions of the Apple Developer website require a free Apple ID account registration.
 
+##### Announcements & Support
 - [Newsroom - Apple](https://www.apple.com/newsroom)
 - [Today at Apple (Store)](https://www.apple.com/today)
 - [Official Apple Support](https://support.apple.com)
 - [Support - Apple Developer](https://developer.apple.com/support)
+
+##### Developer
+- [Swift.org](https://www.swift.org)
+- [What's new for Apple Developers - Apple Developer](https://developer.apple.com/whats-new/)
 - [Apple Developer Documentation](https://developer.apple.com/documentation)
+- [New Technologies | Apple Developer Documentation](https://developer.apple.com/documentation/new-technologies-wwdc22/)
+
+##### Enterprise & Education
+- [Apple Platform Security Guide](https://support.apple.com/guide/security/welcome/web)
+- [What's New - Apple Platform Security](https://support.apple.com/guide/security/secb82d6b274/web)
+- [Apple Platform Deployment Guide](https://support.apple.com/guide/deployment/welcome/web)
+- [What's New - Apple Platform Deployment](https://support.apple.com/guide/deployment/whats-new-dep950aed53e/1/web/1.0)
+- [Use Apple products on Enterprise Networks](https://support.apple.com/HT210060)
 - [Training (Apple Certification)](https://training.apple.com)
 
 <!--- comments
