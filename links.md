@@ -15,19 +15,27 @@ Always start with the main Apple websites for authoritative information. While m
 - [Today at Apple (Store)](https://www.apple.com/today)
 - [Official Apple Support](https://support.apple.com)
 - [Apple Support - Youtube](https://www.youtube.com/applesupport)
+- [Apple - Support - Manuals](https://support.apple.com/manuals)
+- [macOS User Guide - Apple Support](https://support.apple.com/guide/mac-help/welcome/mac)
+- [Contact - Official Apple Support](https://support.apple.com/contact)
 
 #### Apple Developer
-- [Swift.org](https://www.swift.org)
+- [Latest News - Apple Developer](https://developer.apple.com/news/)
 - [What's new for Apple Developers - Apple Developer](https://developer.apple.com/whats-new/)
-- [Apple Developer Documentation](https://developer.apple.com/documentation)
+- [Design and Development Videos - Apple Developer](https://developer.apple.com/videos/)
 - [New Technologies - Apple Developer Documentation](https://developer.apple.com/documentation/new-technologies-wwdc22/)
+- [Apple Developer Documentation](https://developer.apple.com/documentation)
 - [Support - Apple Developer](https://developer.apple.com/support)
+- [Learn to code with Apple - Apple Developer](https://developer.apple.com/learn/curriculum/)
+- [Swift.org](https://www.swift.org)	
 
 #### Enterprise & Education
 - [Apple Platform Security Guide](https://support.apple.com/guide/security/welcome/web)
 - [What's New - Apple Platform Security](https://support.apple.com/guide/security/secb82d6b274/web)
 - [Apple Platform Deployment Guide](https://support.apple.com/guide/deployment/welcome/web)
 - [What's New - Apple Platform Deployment](https://support.apple.com/guide/deployment/whats-new-dep950aed53e/1/web/1.0)
+- [Apple Deployment Guide for Education](https://support.apple.com/guide/deployment-education/welcome/1/web)
+- [Document Revision History - Education Deployment](https://support.apple.com/guide/deployment-education/document-revision-history-eduf2ea1bbb9/1/web/1.0)
 - [Use Apple products on Enterprise Networks](https://support.apple.com/HT210060)
 - [Training (Apple Certification)](https://training.apple.com)
 
