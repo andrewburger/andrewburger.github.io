@@ -3,11 +3,11 @@ layout: page
 title: Links
 ---
 
-At Apple and in its community, you can find answers. Here is a short list of resources to find them.
+With Apple, you can find answers. Here is a short list of suggestions to find them.
 
-### Official Apple Sites
+### Official Apple Resources
 
-Always start with the main Apple websites for an authoritative answer. Although nearly everything is open to the public, certain portions of the Apple Developer website require a free Apple ID account registration.
+Always start with the main Apple websites for authoritative information. While most resources is generally accessible, some services require a Apple ID account.
 
 #### Announcements & Support
 - [Newsroom - Apple](https://www.apple.com/newsroom)
@@ -36,13 +36,14 @@ Always start with the main Apple websites for an authoritative answer. Although 
 - [Mac Security Configuration Guides](https://support.apple.com/en-us/HT201216)
 -->
 
-### Other Online Apple Resources
+### Other Online Resources
 
-My recommendations to find answers about Apple products and other interesting people.
+My recommendations for other sources of information about Apple products and meet interesting people.
 
 - [Official Apple Support Community](https://discussions.apple.com)
-- [Apple Developer Forums](https://developer.apple.com/forums/)
 - [Mailing Lists (Apple)](https://lists.apple.com/mailman/listinfo)
+- [Apple Developer Forums](https://developer.apple.com/forums/)
+- [iOS Dev Weekly](https://iosdevweekly.com/)
 - [Technical Articles (jamf)](https://docs.jamf.com/technical-articles/index.html)
 - [MacAdmin Support Pages - Scripting OS X](https://scriptingosx.com/macadmin-links/)
 <!-- [Updated Support Pages](https://scriptingosx.com/2023/03/weekly-news-summary-for-admins-2023-03-31/) -->
