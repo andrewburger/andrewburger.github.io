@@ -7,7 +7,7 @@ With Apple, you can find answers. Here is a short list of suggestions to find th
 
 ### Official Apple Resources
 
-Always start with the main Apple websites for authoritative information. While most resources is generally accessible, some services require a Apple ID account.
+Always start with Apple websites for authoritative information. Some resources and services require login with an Apple ID account.
 
 #### Announcements & Support
 - [Newsroom - Apple](https://www.apple.com/newsroom)
