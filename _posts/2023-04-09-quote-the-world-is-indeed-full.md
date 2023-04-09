@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 📜 Quote of the Day
+title: 📜 The world is indeed full ...
 permalink: quote-the-world-is-indeed-full
 ---
 
