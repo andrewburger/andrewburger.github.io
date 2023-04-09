@@ -8,4 +8,6 @@ permalink: quote-the-world-is-indeed-full
 >
 > ~ *J.R.R. Tolkien* 
 
-Do not let this life be a long defeat. As dark and complete the night may be, the light of a new dawn shall surely come. May hope ever spring eternal and be the anchor for our souls. Live life with purpose and find joy therein. 
+Do not let this life be a long defeat. As dark and complete the night may be, the light of a new dawn shall surely come. May hope ever spring eternal and be the anchor for our souls.
+
+Live life with purpose and find joy therein. 
