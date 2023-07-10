@@ -16,6 +16,6 @@ permalink: link-how-to-do-great-work
 
 There is a lot of wisdom in this essay for anyone with sufficient ambition. Like Paul, I have seen optimism, curiosity, and compound effort act as a catalyst for meaningful change and a force for good.
 
-I invite us all collectively to start something new. Don't worry too much about whether the idea appears trivial or small.
+I invite us all collectively to start something new. Don't worry too much about whether this activity appears trivial or imperfect.
 
 Our future is waiting for someone just like you.
