@@ -10,4 +10,4 @@ permalink: quote-life-is-really-simple
 
 May your desires be simple yet focused, your interests rich and complex, and your experiences unexpectedly remarkable. May your life as a whole be meaningful and sufficiently complicated.[^fn-followup]
 
-[^fn-followup]: If you are looking for more detail about this statement, read about that [here](/life-should-be-complicated).
+[^fn-followup]: For more detail, read [here](/life-should-be-complicated).
