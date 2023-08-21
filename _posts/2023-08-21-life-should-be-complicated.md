@@ -52,6 +52,8 @@ We eventually de-emphasize or remove duplicate and overly redundant components i
 
 Like the skilled tea maker, we progress from simple to complex. Along the way, we observe and dive into chaotic forces to drive and accelerate change. Eventually, we embrace the complicated. Focused in our drive for simplicity yet complex enough to enhance our own joy and of benefit to others. That tension between convenience and perfection will ever persist, no matter which field or specialty we pursue.
 
-The argument could be made: Did Confucius really intend to express our innate need for complexity and our final state as complicated individuals? Or was he simply stating how we can make our own lives unnecessarily difficult? That exercise I leave to you, dear reader.
+*Did Confucius really intend to express our innate need for complexity and our final state as complicated individuals? Or was he stating how we can make our own lives unnecessarily difficult?*
+
+That exercise I leave to you, dear reader.
 
 May your desires be simple yet focused, your interests rich and complex, and your experiences unexpectedly remarkable. May your life be meaningful and sufficiently complicated.
