@@ -10,7 +10,7 @@ Earlier, I shared [a brief thought](/quote-life-is-really-simple) on this well-k
 >
 > ~ *Confucius* 
 >
-> May your desires be simple yet focused, your interests rich and complex, and your life as a whole be sufficiently complicated.
+> May your desires be simple yet focused, your interests rich and complex, and your experiences unexpectedly remarkable. May your life as a whole be meaningful and sufficiently complicated.
 
 I am giving myself an opportunity to explore this sentiment publicly and share my thoughts with you behind this statement.
 
