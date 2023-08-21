@@ -4,7 +4,7 @@ title: 📝 Life should be complicated
 permalink: life-should-be-complicated
 ---
 
-Earlier, I shared [a brief thought](/_posts/quote-life-is-really-simple) on this well-known quote (fully quoted here for context):
+Earlier, I shared [a brief thought](/quote-life-is-really-simple) on this well-known quote (fully quoted here for context):
 
 > Life is really simple, but we insist on making it complicated.
 >
