@@ -8,6 +8,6 @@ permalink: quote-life-is-really-simple
 >
 > ~ *Confucius* 
 
-May your desires be simple yet focused, your interests rich and complex, and your experiences unexpectedly remarkable. May your life as a whole be meaningful and sufficiently complicated.[^fn-followup]
+May your desires be simple yet focused, your interests rich and complex, and your experiences unexpectedly remarkable. May your life be meaningful and sufficiently complicated.[^fn-followup]
 
 [^fn-followup]: For more detail, read [here](/life-should-be-complicated).
