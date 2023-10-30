@@ -18,7 +18,7 @@ The nature of choice is complex but knowable. Whether we acknowledge it or not, 
 
 We make choices for many reasons: love, good intentions, doubt, convenience, conviction, self-worth. We may feel uncomfortable with ambiguity or ambivalence and decide on a safe choice or a risky one. We could be choosing between two compelling but competing priorities. Perhaps we should admit that we are usually guessing and doing the best we can with our current level of knowledge and understanding most of the time.
 
-Every choice leads to another choice. Decide which agreements (and their associated relationships and social contracts) are worth honoring and pursuing. Assessing which relationships matter early and often is a solid foundation for a decision framework that will dramatically improve your overall well-being and self-fulfillment throughout life.
+Every choice leads to another choice. Decide which agreements (and their associated relationships and social contracts) are worth honoring and pursuing. Assessing which relationships matter early and often is a solid foundation for a decision framework that will dramatically improve overall well-being and self-fulfillment throughout life.
 
 Do not let yourself believe you can do all things. Or perhaps more accurately, be all things to all people. In essence, that choice ultimately leads to an unsustainable and unsatisfactory end.
 
