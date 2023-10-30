@@ -14,7 +14,7 @@ Patrick Rhone on the [For You blog](https://foryou.micro.blog/) writes about [ou
 >
 > The choices we make are not made in a vacuum. Making and keeping the right agreements is what keeps you in harmonious balance with the rest of the world.
 
-The nature of choice is complex but knowable. Whether we acknowledge it or not, it involves selecting one option and leaving others behind. It means letting go certain possibilities. Choice affects how a relationship evolves and if it will end.
+The nature of choice is complex but knowable. Whether we acknowledge it or not, choice involves selecting one option and leaving others behind. It means letting go certain possibilities. Choice affects how a relationship evolves and if it will end.
 
 We make choices for many reasons: love, good intentions, doubt, convenience, conviction, self-worth. We may feel uncomfortable with ambiguity or ambivalence and decide on a safe choice or a risky one. We could be choosing between two compelling but competing priorities. Perhaps we should admit that we are usually guessing and doing the best we can with our current level of knowledge and understanding most of the time.
 
