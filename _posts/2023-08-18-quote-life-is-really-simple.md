@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 📜 Life is really simple
+title: 💬 Life is really simple
 permalink: quote-life-is-really-simple
 ---
 
