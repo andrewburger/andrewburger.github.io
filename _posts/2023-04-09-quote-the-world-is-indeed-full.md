@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 💬 The world is indeed full
+title: 📜 The world is indeed full
 permalink: quote-the-world-is-indeed-full
 ---
 
