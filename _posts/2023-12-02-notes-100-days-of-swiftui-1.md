@@ -9,9 +9,9 @@ Add a new series of notes for myself and others as I go through [100 Days of Swi
 First, some initial impressions:
 * Paul Hudson is very precise, thoughtful, and pragmatic on what to learn and why.
 * Prototyping new code and concepts using Swift Playgrounds within Xcode is very nice.
-* I do like the optional reference material, the review exercises to self-verify understanding, and the thoughtful care to stucture the time into digestable portions.
+* I do like the optional reference material, the review exercises to self-verify understanding, and the thoughtful care taken to present the new lessons and incorporate new knowledge into small and digestable portions.
 
-Since Swift is not my first programming language, I anticipate that the first portion will happen quickly and efficiently. I'm enjoy the relaxed pace in progressing through the material and appreciate a start with the fundamentals. 
+Since Swift is not my first programming language, I anticipate that the first portion will happen quickly and efficiently. I enjoy the relaxed pace of prgoress and appreciate a starting with well-explained fundamentals. 
 
 I imagine that the material and exercises will get harder and that repetition will help a lot.
 
