@@ -9,11 +9,11 @@ Starting a new series while going through [100 Days of SwiftUI](https://www.hack
 First, some initial impressions:
 * Paul Hudson is precise, thoughtful, and pragmatic on what to learn and why.
 * Prototyping new code and concepts using Swift Playgrounds within Xcode is very nice.
-* I do like the thoughtful care taken to present new concepts and incorporate new knowledge through small and digestable portions.
+* I do like the thoughtful care taken to present new concepts and incorporate new knowledge through small and digestible portions.
 * Adding optional reference material and review exercises is effective and excellent reinforcement. 
 
 Since Swift is not my first programming language, the real exercise here is to practice patience and diligence. I am enjoying the relaxed pace of progress and appreciate a start with well-explained fundamentals. 
 
-The material and exercises will get eventually harder. Good habits and repetition  will help in the long run.
+The material and exercises will get harder. Good habits and repetition will eventually make a difference.
 
 Off to a great start so far!
