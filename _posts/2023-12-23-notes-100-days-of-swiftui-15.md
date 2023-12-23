@@ -12,6 +12,6 @@ This section reviews all the [Swift language](https://docs.swift.org/swift-book/
 
 I really appreciate all the different modes to learn (daily video, session transcript, optional content) and practice new concepts (follow video exercises, modify code snippets in Xcode, complete code checkpoint challenges, answer review questions). Very happy with progress so far.
 
-Taking time to write after each section is really helping to build working knowledge. Or in other words, I am working to build both [knowledge by acquaintance](https://en.wikipedia.org/wiki/Knowledge_by_acquaintance) and *knowledge by description*.
+Taking extra time to reflect and write after each section is really helping. I am intentionally building new knowledge through [knowledge by acquaintance](https://en.wikipedia.org/wiki/Knowledge_by_acquaintance) and *knowledge by description*.
 
 Looking forward to the next section!
