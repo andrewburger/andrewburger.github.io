@@ -8,8 +8,10 @@ Finished [Day 15](https://www.hackingwithswift.com/100/swiftui/15) in [100 Days 
 
 This section reviews all the [Swift language](https://docs.swift.org/swift-book/documentation/the-swift-programming-language) concepts and content from prior sessions. It is a consolidation day.
 
-I really appreciate all the different modes to learn (watching video, reading through the transcript, optional content) and practice new concepts (following exercises the video, spending time in Xcode, code checkpoint challenges, review questions). Very happy with progress so far.
+*Spending time to learn, build, and practice each day is working.*
 
-Taking time to write down something after each section is really helping to translate everything into working knowledge. Or in other words, I am working to build both [knowledge by acquaintance](https://en.wikipedia.org/wiki/Knowledge_by_acquaintance) and knowledge by description.
+I really appreciate all the different modes to learn (daily video, session transcript, optional content) and practice new concepts (follow video exercises, modify code snippets in Xcode, complete code checkpoint challenges, answer review questions). Very happy with progress so far.
 
-Spending time to learn, build, and practice each day is working. Looking forward to the next section.
+Taking time to write after each section is really helping to build working knowledge. Or in other words, I am working to build both [knowledge by acquaintance](https://en.wikipedia.org/wiki/Knowledge_by_acquaintance) and *knowledge by description*.
+
+Looking forward to the next section!
