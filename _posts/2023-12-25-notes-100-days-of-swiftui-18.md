@@ -6,4 +6,4 @@ permalink: notes-100-days-of-swiftui-day-18
 
 Completed [Day 18](https://www.hackingwithswift.com/100/swiftui/18) in [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui).
 
-This section completes our first app project in [SwiftUI](https://developer.apple.com/documentation/swiftui) through a short review and challenge. This short review only required a few unguided app code modifications for the app and answering a short list of conceptual questions.
+This section completes our first app project in [SwiftUI](https://developer.apple.com/documentation/swiftui) through a short review and challenge. The review only required a few unguided app code modifications and answering a short list of conceptual questions.
