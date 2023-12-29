@@ -14,7 +14,7 @@ Wouter Groeneveld on the [Brain Baking website](https://brainbaking.com) writes 
 >
 > I still prefer writing in public, thereby hopefully positively influencing my little community the same way as my little community influences me.
 
-There are lots of reasons to write. My hope is that at least one of them is related to you, your interests, and personal growth. My latest series documenting my  journey with [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) is a perfect example where creating written content encourages clarity, reflection, and (hopefully) better integration on knowledge with immediate benefits now and potentially years later.
+There are lots of reasons to write. My hope is that at least one of them is related to you, your interests, and personal growth. The latest series documenting my  journey with [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) is a perfect example where creating written content encourages clarity, reflection, and deeper learning has immediate benefits now and potentially in the future.
 
 *By writing in public, I introduce new possibilities where my actions could positively influence others, which is a helpful but secondary motivator, and provide reinforcing factors that increases my own commitment to continue this journey with rigor and ultimately produce better writing.*
 
