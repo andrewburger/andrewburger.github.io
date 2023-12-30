@@ -10,4 +10,4 @@ This section continues our journey with [SwiftUI](https://developer.apple.com/do
 
 We covered how to [build layouts with stack views](https://developer.apple.com/documentation/swiftui/building-layouts-with-stack-views), add [Color](https://developer.apple.com/documentation/swiftui/color) and [Gradient](https://developer.apple.com/documentation/swiftui/gradient), build [Button](https://developer.apple.com/documentation/swiftui/button) labels and actions, include an [Image](https://developer.apple.com/documentation/swiftui/image), and show [Alert](https://developer.apple.com/documentation/swiftui/view/alert(_:ispresented:presenting:actions:message:)-8584l) messages.
 
-It was a pretty quick walkthrough of each element with examples.
+The content was a guided tour of each component type with examples.
