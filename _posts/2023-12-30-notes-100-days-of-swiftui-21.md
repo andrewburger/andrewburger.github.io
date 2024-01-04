@@ -4,7 +4,7 @@ title: 📔 100 Days of SwiftUI (Day 21)
 permalink: notes-100-days-of-swiftui-day-21
 ---
 
-Finished [Day 21](https://www.hackingwithswift.com/100/swiftui/17) in [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui).
+Finished [Day 21](https://www.hackingwithswift.com/100/swiftui/21) in [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui).
 
 This section is more practice with [SwiftUI](https://developer.apple.com/documentation/swiftui) concepts learned previously. There is a lot more emphasis on the visual and creative aspect of app design, layout, and presentation.
 
