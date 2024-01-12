@@ -6,7 +6,7 @@ permalink: notes-100-days-of-swiftui-day-28
 
 Completed [Day 28](https://www.hackingwithswift.com/100/swiftui/28) in [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui).
 
-This session continues with more opportunities to practice. Was able to get through the exercises comfortably. Everything is feeling familiar and also I can draw upon previous work quickly to get a result.
+This session continues with more opportunities to practice. I completed the exercises on-time, comfortably, and with confidence. Everything is feeling familiar and  I can draw upon previous work quickly to get a result.
 
 Because Steve Jobs and Paul Hudson summarized my current state and desired progression best, I will simply quote them:
 
