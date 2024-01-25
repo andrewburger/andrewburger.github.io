@@ -20,10 +20,10 @@ For me, it really started with the [Mac OS X Snow Leopard](https://en.wikipedia.
 
 I have long believed that the heart and soul of the Mac is in the operating system. Today that is [macOS](https://en.wikipedia.org/wiki/MacOS). There is always room for improvement but I cannot imagine any real alternative for a polished client operating system for those care about the experience of using one.
 
-Apple is the only major commerical OS vendor of note who has not largely abandoned our personal device as a general computing for everyone in favor of the public cloud or the datacenter. Windows maintains a huge foothold in gaming and the enterprise but remains stuck there. Linux has tried for decades but simply cannot despite the promise as a viable alternatives. Thankfully, novel advances and projects in open source software continues to be a second source of inspiration to the industry as a whole.
+Apple is the only major commercial OS vendor of note who has not largely abandoned our personal device as a general computing for everyone in favor of the public cloud or the datacenter. Windows maintains a huge foothold in gaming and the enterprise but remains stuck there. Linux has tried for decades but simply cannot despite the promise as a viable alternative. Thankfully, novel advances and projects in open-source software continues to be a second source of inspiration to the industry.
 
 If macOS is the soul of the Mac, then the hardware is the muscles and the bones of it. There is no denying that the transition to Apple Silicon was spectacular. The hardware has never been more powerful or better integrated. The rest of the industry is still trying to come to grips with that reality; there is just nothing else like it. Simply amazing.
 
 There has never been a time to consider and use a Mac. It will be a strong and critical pillar of the Apple universe and an excellent option as a fantastic computer for everyone.
 
-I'm looking forward to another decade as a happy and devoted customer.
+I am looking forward to another decade as a happy and devoted customer.
