@@ -12,18 +12,18 @@ Jason Snell on his [Six Colors](https://sixcolors.com) website honors [the 40th 
 > 
 > Mac has [evolved] with nearly every major technological wave... to become a product that has not only stood the test of time, but that has built a loyalty among users like no other...
 >
-> It's hard to imagine any other PC that people love as much as the Mac. That was true with the very first Mac, and it's still true with the Macs we make today.
+> It's hard to imagine any other PC that people love as much as the Mac. That was true with the very first Mac, and it's still true... today.
 
 I would be remiss to let this day go by without saying something. After all, my current livelihood would be impossible without it.
 
-For me, it really started with the [Mac OS X Snow Leopard](https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard) on the MacBook "Core 2 Duo" 2.4 13-Inch (the unibody white polycarbonate model from 2010) and never looked back since.
+For me, it really started with the [Mac OS X Snow Leopard](https://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard) on the MacBook "Core 2 Duo" 2.4 13-Inch (the unibody white polycarbonate model from 2010) and never looked back since. I am a devoted fan who spent time understanding its legacy, values, and potential. I remain optimistic about the future of the Mac.
 
-I have long believed that the heart and soul of the Mac is in the operating system. Today that is [macOS](https://en.wikipedia.org/wiki/MacOS). I can't imagine any real alternative for a polished client operating system for those care about the experience of using one.
+I have long believed that the heart and soul of the Mac is in the operating system. Today that is [macOS](https://en.wikipedia.org/wiki/MacOS). There is always room for improvement but I cannot imagine any real alternative for a polished client operating system for those care about the experience of using one.
 
-Apple is the only major commerical OS vendor of note who hasn't largely abandoned our personal device for the public cloud or the datacenter. Windows maintains a huge foothold in gaming and the enterprise but remains stuck there. Linux has tried for decades but simply cannot. Fortunately, novel advances and projects in open source software continues to be an alternative source of inspiration to the industry as a whole.
+Apple is the only major commerical OS vendor of note who has not largely abandoned our personal device as a general computing for everyone in favor of the public cloud or the datacenter. Windows maintains a huge foothold in gaming and the enterprise but remains stuck there. Linux has tried for decades but simply cannot despite the promise as a viable alternatives. Thankfully, novel advances and projects in open source software continues to be a second source of inspiration to the industry as a whole.
 
-And there is no denying that transition to Apple Silicon was spectacular. The hardware has never been more powerful or better integrated. The rest of the industry is still trying to come to grips with that reality; there is just nothing else like it. Simply amazing.
+If macOS is the soul of the Mac, then the hardware is the muscles and the bones of it. There is no denying that the transition to Apple Silicon was spectacular. The hardware has never been more powerful or better integrated. The rest of the industry is still trying to come to grips with that reality; there is just nothing else like it. Simply amazing.
 
-There has never been a time to consider and use a Mac. It will remain a strong and critical Apple platform.
+There has never been a time to consider and use a Mac. It will be a strong and critical pillar of the Apple universe and an excellent option as a fantastic computer for everyone.
 
 I'm looking forward to another decade as a happy and devoted customer.
