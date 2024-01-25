@@ -4,7 +4,7 @@ title: 🔗 The enduring appeal of the Mac
 permalink: link-greg-joswiak-on-the-macs-enduring-appeal
 ---
 
-Jason Snell on his site [Six Colors](https://sixcolors.com) honors [the 40th anniversity of the Mac](https://brainbaking.com/post/2023/11/on-writing-for-yourself-in-public/) and shares interesting insights from [Greg Joswiak](https://en.wikipedia.org/wiki/Greg_Joswiak):
+Jason Snell on his [Six Colors](https://sixcolors.com) website honors [the 40th anniversity of the Mac](https://brainbaking.com/post/2023/11/on-writing-for-yourself-in-public/) by sharing some interesting insights from [Greg Joswiak](https://en.wikipedia.org/wiki/Greg_Joswiak):
 
 > The Mac is the foundation of Apple... and... will always be part of Apple [as] a product that runs deep within the company, and defines who we are...
 >
