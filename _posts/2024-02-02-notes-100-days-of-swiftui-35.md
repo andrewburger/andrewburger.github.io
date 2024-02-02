@@ -12,7 +12,6 @@ The project took longer than expected because I did not have the requisite atten
 > 1. Optimize your environment
 > 2. Map out your work
 > 3. Find joy in the work
-
 As a result, I spent extra time to learn how to [annotate code for visibility](https://developer.apple.com/documentation/xcode/creating-organizing-and-editing-source-files#Annotate-your-code-for-visibility) within Xcode for easy navigation with the jump bar menu and better organization in the main source file. I also [added supporting documentation](https://developer.apple.com/documentation/xcode/adding-supplemental-content-to-a-documentation-catalog) to describe functions, record certain concepts, and map the remaining work for completion.
 
 Entering back into the problem space between programming sessions was much easier for this project after making these adjustments. For future endeavors, I have simple custom snippets for better code organization and a document template once I move beyond this learning journey.
