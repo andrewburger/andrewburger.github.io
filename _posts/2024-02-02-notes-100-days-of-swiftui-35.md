@@ -8,7 +8,7 @@ Finished [Day 35](https://www.hackingwithswift.com/100/swiftui/35) in [100 Days 
 
 This session marks the completion of second consolidation project with [SwiftUI](https://developer.apple.com/documentation/swiftui) based on previous projects. I have a working app for the milestone project but did not complete all optional learning components. I will update this note when I do.
 
-I really like building out the core application, the screens, and its logic in an incremental fashion using Xcode Preview. The resulting visual prototype is helpful for quick but disposal prototypes that are also easy to debug right away.
+I really like building out the core application, the screens, and its logic in an incremental fashion using Xcode Preview. The resulting visual prototype is helpful for quick and disposal models that are also easy to debug right away.
 
 The project took longer than expected because I did not have the requisite attention and less control of my current schedule. [Getting into the flow while coding](https://github.blog/2024-01-22-how-to-get-in-the-flow-while-coding-and-why-its-important/) is an important success factor for deep learning with complex code components. Some research suggests that these basic principles can help:
 
