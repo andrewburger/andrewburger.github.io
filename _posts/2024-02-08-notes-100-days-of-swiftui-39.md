@@ -8,4 +8,4 @@ Completed [Day 39](https://www.hackingwithswift.com/100/swiftui/39) in [100 Days
 
 This section explores [resizable images](https://developer.apple.com/documentation/swiftui/image/resizable(capinsets:resizingmode:)), [ScrollView](https://developer.apple.com/documentation/swiftui/scrollview) and [NavigationLink](https://developer.apple.com/documentation/swiftui/navigationlink) with [SwiftUI](https://developer.apple.com/documentation/swiftui).
 
-I am getting a lot out of this learning journey. Thinking about how continue on once this session is a proized weak.fffd
+I am getting a lot out of this learning journey. Thinking about how continue on once the series is complete.
