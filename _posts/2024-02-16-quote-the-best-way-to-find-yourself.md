@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 📜 In any moment of decision
+title: 📜 The best way to find yourself
 permalink: quote-the-best-way-to-find-yourself
 ---
 
