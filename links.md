@@ -16,6 +16,7 @@ Always start with Apple websites for authoritative information. Some resources a
 - [Official Apple Support](https://support.apple.com)
 - [Apple Support - Youtube](https://www.youtube.com/applesupport)
 - [Apple - Support - Manuals](https://support.apple.com/manuals)
+- [Apple - Support - Technical Specifications](https://support.apple.com/specs)
 - [macOS User Guide - Apple Support](https://support.apple.com/guide/mac-help/welcome/mac)
 - [Contact - Official Apple Support](https://support.apple.com/contact)
 
