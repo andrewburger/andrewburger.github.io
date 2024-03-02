@@ -33,9 +33,10 @@ Always start with Apple websites for authoritative information. Some resources a
 #### Enterprise & Education
 - [Apple Platform Deployment Guide](https://support.apple.com/guide/deployment/welcome/web)
 - [What's New - Apple Platform Deployment](https://support.apple.com/guide/deployment/whats-new-dep950aed53e/1/web/1.0)
+- [Document Revision History - Apple Platform Deployment](https://support.apple.com/guide/deployment/document-revision-history-dep9d814c555/web)
 - [All Web Resources - Apple Platform Deployment](https://support.apple.com/guide/deployment/apple-web-resources-depda04c22d4/web)
 - [Apple Platform Security Guide](https://support.apple.com/guide/security/welcome/web)
-- [What's New - Apple Platform Security](https://support.apple.com/guide/security/secb82d6b274/web)
+- [Document Revision History - Apple Platform Security](https://support.apple.com/guide/security/secb82d6b274/web)
 - [Apple Platform Certifications](https://support.apple.com/guide/certifications/welcome/web)
 - [Document Revision History - Platform Certifications](https://support.apple.com/guide/certifications/document-revision-history-apc353b1b736/web)
 - [Apple Deployment Guide for Education](https://support.apple.com/guide/deployment-education/welcome/1/web)
