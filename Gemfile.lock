@@ -38,7 +38,7 @@ GEM
       maruku (= 0.7.0)
       mercenary (~> 0.3)
       pygments.rb (= 0.6.3)
-      rdiscount (= 2.1.7)
+      rdiscount (~> 2.2.7.4)
       redcarpet (= 3.3.1)
       terminal-table (~> 1.4)
     github-pages-health-check (0.3.1)
