@@ -23,7 +23,7 @@ Always start with Apple websites for authoritative information. Some resources a
 - [Latest News - Apple Developer](https://developer.apple.com/news/)
 - [What's new for Apple Developers - Apple Developer](https://developer.apple.com/whats-new/)
 - [Design and Development Videos - Apple Developer](https://developer.apple.com/videos/)
-- [Technology Overviews | Apple Developer Documentation](https://developer.apple.com/documentation/technologyoverviews)
+- [Technology Overviews - Apple Developer Documentation](https://developer.apple.com/documentation/technologyoverviews)
 - [Apple Developer Documentation](https://developer.apple.com/documentation)
 - [Updates - Apple Developer Documentation](https://developer.apple.com/documentation/Updates)
 - [Support - Apple Developer](https://developer.apple.com/support)
