@@ -14,10 +14,4 @@ Today I came across [Reverse Engineer Anything](<https://github.com/morluto/rea>
 
 Different projects, different motivations. Some challenge subscription models and give people more control over their tools. Others are driven by curiosity, experimentation, and the sheer fun of asking, "What if?"
 
-What connects them is a shift in the economics of creation. Things that once required specialized expertise and substantial engineering effort can increasingly be replicated, remixed, and reimagined in a fraction of the time.
-
-As implementation gets cheaper, the bottleneck shifts toward judgment: knowing what to build, directing the work, and verifying that the result actually works. The implications extend well beyond software engineering.
-
-Businesses, competitive advantages, intellectual property, and entire careers have been shaped by the cost and difficulty of building things. As those constraints change, so must our assumptions.
-
-AI can help us do the same things faster. But the bigger opportunity is to rethink what we're building, what makes it valuable, and which constraints we accepted simply because they were always there until now.
+AI can help us do the same things faster. But the bigger opportunity is to rethink what we are building, what makes it valuable, and which constraints we accepted simply because they were always there until now.
